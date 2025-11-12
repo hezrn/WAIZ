@@ -8,7 +8,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #64b5f6, #81c784);
+  background: linear-gradient(135deg, #3a88c7, #51b355);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -143,7 +143,7 @@ button.ghost {
 }
 
 .overlay {
-  background: linear-gradient(135deg, #64b5f6, #81c784);
+  background: linear-gradient(135deg, #4b9fe3, #6ad66f);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
