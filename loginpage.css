@@ -11,7 +11,7 @@
    BACKGROUND (Animated Eco-Tech Gradient)
 -------------------------------------------------- */
 body {
-  background: linear-gradient(135deg, #2f7ac0, #3fa867, #b7e87c);
+  background: linear-gradient(135deg, #46a7dd, #45c97a);
   background-size: 400% 400%;
   animation: waizFlow 12s ease infinite;
   display: flex;
